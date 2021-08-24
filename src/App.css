@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.selectedSong div {
+  border: 3px solid lightcoral;
+  padding: 5px;
+  color: black;
+  background: lightcoral;
+}
